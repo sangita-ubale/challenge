@@ -1,6 +1,6 @@
 # challenge
 
-Service to transfer fund from one account to another account 
+Service to transfer fund from one account to another account. 
 
 
 Points to make this service Production-Ready:
@@ -10,3 +10,4 @@ Points to make this service Production-Ready:
 4. Need to add Spring boot actuator to monitor and manage service effectively. Grafana and prometheus can be used for monitoring.
 5. Need to add API documentation using Swagger/OpenAPI (Springdoc)
 6. Need to setup the CI/CD pipeline for automated build and deployment
+7. Need to containerize with a Dockerfile and deploy using Kubernetes with autoscaling.
